@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../2019-1-4/.idea/2019-1-4.iml" filepath="$PROJECT_DIR$/../2019-1-4/.idea/2019-1-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2019-1-5/.idea/2019-1-5.iml" filepath="$PROJECT_DIR$/../2019-1-5/.idea/2019-1-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2019-1-7/.idea/2019-1-7.iml" filepath="$PROJECT_DIR$/../2019-1-7/.idea/2019-1-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2019-1-8/.idea/2019-1-8.iml" filepath="$PROJECT_DIR$/../2019-1-8/.idea/2019-1-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/2019-1-9.iml" filepath="$PROJECT_DIR$/.idea/2019-1-9.iml" />
+    </modules>
+  </component>
+</project>
